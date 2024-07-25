@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/a40fe38a328446d79321d034e5d52114/artifacts
+end_time: 1721836933904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a40fe38a328446d79321d034e5d52114
+run_name: blushing-smelt-54
+run_uuid: a40fe38a328446d79321d034e5d52114
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721836933005
+status: 4
+tags: []
+user_id: madmin

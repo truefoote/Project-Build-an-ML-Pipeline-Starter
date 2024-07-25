@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/9fdf0b1306f745dfa4a088016cd5673a/artifacts
+end_time: 1721838300154
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9fdf0b1306f745dfa4a088016cd5673a
+run_name: upbeat-lark-563
+run_uuid: 9fdf0b1306f745dfa4a088016cd5673a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721838299081
+status: 4
+tags: []
+user_id: madmin

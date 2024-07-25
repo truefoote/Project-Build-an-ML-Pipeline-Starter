@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/ee568fd3cf724761919af9920c89b898/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ee568fd3cf724761919af9920c89b898
+run_name: blushing-moth-636
+run_uuid: ee568fd3cf724761919af9920c89b898
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721839278445
+status: 1
+tags: []
+user_id: madmin

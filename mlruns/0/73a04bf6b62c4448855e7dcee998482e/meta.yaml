@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/73a04bf6b62c4448855e7dcee998482e/artifacts
+end_time: 1721932219730
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 73a04bf6b62c4448855e7dcee998482e
+run_name: defiant-shad-569
+run_uuid: 73a04bf6b62c4448855e7dcee998482e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721932161534
+status: 4
+tags: []
+user_id: madmin

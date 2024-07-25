@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1d5b770684eb47be8734fba1347fb5a1/artifacts
+end_time: 1721838502741
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1d5b770684eb47be8734fba1347fb5a1
+run_name: polite-mare-377
+run_uuid: 1d5b770684eb47be8734fba1347fb5a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721838501652
+status: 4
+tags: []
+user_id: madmin

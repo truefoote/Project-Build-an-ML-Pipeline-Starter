@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/f1568e72468944ce9dd7ce0be5fe2778/artifacts
+end_time: 1721837896431
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f1568e72468944ce9dd7ce0be5fe2778
+run_name: lyrical-bee-971
+run_uuid: f1568e72468944ce9dd7ce0be5fe2778
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721837895401
+status: 4
+tags: []
+user_id: madmin

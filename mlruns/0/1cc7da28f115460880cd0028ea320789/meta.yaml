@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/1cc7da28f115460880cd0028ea320789/artifacts
+end_time: 1721932813641
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1cc7da28f115460880cd0028ea320789
+run_name: languid-mare-573
+run_uuid: 1cc7da28f115460880cd0028ea320789
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721932792764
+status: 4
+tags: []
+user_id: madmin

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/6eddab2417484835959396c1f3d1ef99/artifacts
+end_time: 1721932958264
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6eddab2417484835959396c1f3d1ef99
+run_name: hilarious-panda-205
+run_uuid: 6eddab2417484835959396c1f3d1ef99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721932922312
+status: 3
+tags: []
+user_id: madmin

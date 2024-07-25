@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/356065b191694489bf98d7e07a9fc9ce/artifacts
+end_time: 1721835998490
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 356065b191694489bf98d7e07a9fc9ce
+run_name: defiant-bug-60
+run_uuid: 356065b191694489bf98d7e07a9fc9ce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721835949874
+status: 4
+tags: []
+user_id: madmin

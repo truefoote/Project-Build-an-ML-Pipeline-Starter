@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/21c1cf933a2f41ce82e9cce73d11c6d2/artifacts
+end_time: 1721932333702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21c1cf933a2f41ce82e9cce73d11c6d2
+run_name: nebulous-smelt-660
+run_uuid: 21c1cf933a2f41ce82e9cce73d11c6d2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721932267987
+status: 4
+tags: []
+user_id: madmin

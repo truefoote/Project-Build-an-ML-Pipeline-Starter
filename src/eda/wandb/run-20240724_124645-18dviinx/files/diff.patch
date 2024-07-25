@@ -1,0 +1,23 @@
+diff --git a/components/get_data/conda.yml b/components/get_data/conda.yml
+index eae3e2b..ad5afed 100644
+--- a/components/get_data/conda.yml
++++ b/components/get_data/conda.yml
+@@ -8,4 +8,5 @@ dependencies:
+   - mlflow=2.1.1
+   - pip:
+       - wandb==0.13.9
++      - databricks-cli==0.18.0
+       - git+https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter.git#egg=wandb-utils&subdirectory=components
+diff --git a/conda.yml b/conda.yml
+index e8f87fa..795271c 100644
+--- a/conda.yml
++++ b/conda.yml
+@@ -8,4 +8,5 @@ dependencies:
+   - hydra-core=1.0.6
+   - pip=20.3.3
+   - pip:
+-      - wandb==0.13.9
+\ No newline at end of file
++      - wandb==0.13.9
++      - databricks-cli==0.18.0
+\ No newline at end of file

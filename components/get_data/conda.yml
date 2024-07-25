@@ -8,4 +8,5 @@ dependencies:
   - mlflow=2.1.1
   - pip:
       - wandb==0.13.9
+      - databricks-cli==0.18.0
       - git+https://github.com/udacity/Project-Build-an-ML-Pipeline-Starter.git#egg=wandb-utils&subdirectory=components

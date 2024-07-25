@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/7b41492c27a3472cac617ac21b29abaf/artifacts
+end_time: 1721839458169
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7b41492c27a3472cac617ac21b29abaf
+run_name: stylish-mole-65
+run_uuid: 7b41492c27a3472cac617ac21b29abaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721839399721
+status: 3
+tags: []
+user_id: madmin

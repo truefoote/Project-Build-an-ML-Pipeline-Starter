@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/23b22461ffbf4481bf954472ca14f78c/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 23b22461ffbf4481bf954472ca14f78c
+run_name: exultant-shrew-679
+run_uuid: 23b22461ffbf4481bf954472ca14f78c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721839205268
+status: 1
+tags: []
+user_id: madmin

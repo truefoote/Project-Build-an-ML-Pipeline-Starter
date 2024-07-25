@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/49cef8dbf3f34c2e819818e5099ff45c/artifacts
+end_time: 1721839458291
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 49cef8dbf3f34c2e819818e5099ff45c
+run_name: auspicious-stag-153
+run_uuid: 49cef8dbf3f34c2e819818e5099ff45c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721839358299
+status: 3
+tags: []
+user_id: madmin

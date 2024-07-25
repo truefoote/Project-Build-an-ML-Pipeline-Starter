@@ -1,0 +1,15 @@
+artifact_uri: file:///home/madmin/Project-Build-an-ML-Pipeline-Starter/mlruns/0/8d2013cebce24ed1b3b88e4028bdbf4c/artifacts
+end_time: 1721836597506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8d2013cebce24ed1b3b88e4028bdbf4c
+run_name: dazzling-wren-788
+run_uuid: 8d2013cebce24ed1b3b88e4028bdbf4c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1721836596412
+status: 4
+tags: []
+user_id: madmin
